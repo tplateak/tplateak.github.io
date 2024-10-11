@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tplateak.github.io/sitemap.html.gz
+Sitemap: https://tplateak.github.io/app/sitemap.html.gz
+Sitemap: https://tplateak.github.io/assets/sitemap.html.gz
+Sitemap: https://tplateak.github.io/css/sitemap.html.gz
+Sitemap: https://tplateak.github.io/includes/sitemap.html.gz
+Sitemap: https://tplateak.github.io/item/sitemap.html.gz
+Sitemap: https://tplateak.github.io/src/sitemap.html.gz
